@@ -1,0 +1,37 @@
+_repo: Lord-Kitchener_25795
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chesterton, G. K. (Gilbert Keith)
+    aliases:
+    - Chesterton, Gilbert Keith
+    - Chesterton, Gilbert K. (Gilbert Keith)
+    birthdate: 1874
+    deathdate: 1936
+    gutenberg_agent_id: '80'
+    url: http://www.gutenberg.org/2009/agents/80
+    wikipedia: http://en.wikipedia.org/wiki/G._K._Chesterton
+description: Horatio Herbert Kitchener was Irish by birth but English by extraction,
+  being born in County Kerry, the son of an English colonel. The fanciful might see
+  in this first and accidental fact the presence of this simple and practical man
+  amid the more mystical western problems and dreams which were very distant from
+  his mind, an element which clings to all his career and gives it an unconscious
+  poetry. He had many qualities of the epic hero, and especially this -- that he was
+  the last man in the world to be the epic poet. There is something almost provocative
+  to superstition in the way.
+gutenberg_issued: '2008-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25795'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kitchener, Horatio Herbert Kitchener, Earl, 1850-1916'
+- !lcc 'DA'
+title: Lord Kitchener
+url: http://www.gutenberg.org/ebooks/25795
